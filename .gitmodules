@@ -1,0 +1,3 @@
+[submodule "my-second-brain"]
+	path = my-second-brain
+	url = https://github.com/anthonyamar/my-second-brain.git
